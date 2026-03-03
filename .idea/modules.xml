@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookMyStayApp/BookMyStayApp.iml" filepath="$PROJECT_DIR$/BookMyStayApp/BookMyStayApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RA2411030010054.iml" filepath="$PROJECT_DIR$/.idea/RA2411030010054.iml" />
+    </modules>
+  </component>
+</project>
