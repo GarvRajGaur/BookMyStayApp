@@ -1,1 +1,1 @@
-# BookMyStayApp
+# HotelBookingApp
